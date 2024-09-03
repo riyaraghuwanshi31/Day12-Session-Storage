@@ -1,0 +1,22 @@
+.container{
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 10%;
+    background-color: rgba(182, 107, 186, 0.849);
+    padding: 20px;
+    margin: 10% 20%;
+}
+
+label{
+    padding: 12px;
+    font-size: 18px;
+}
+
+select{
+    border: none;
+    padding: 7px;
+    border-radius: 2px;
+}
